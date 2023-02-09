@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/panku-chavan/info-app/static/css/main.c2cab247.css",
+    "main.js": "/panku-chavan/info-app/static/js/main.76525952.js",
+    "static/js/787.b9cc98af.chunk.js": "/panku-chavan/info-app/static/js/787.b9cc98af.chunk.js",
+    "index.html": "/panku-chavan/info-app/index.html",
+    "main.c2cab247.css.map": "/panku-chavan/info-app/static/css/main.c2cab247.css.map",
+    "main.76525952.js.map": "/panku-chavan/info-app/static/js/main.76525952.js.map",
+    "787.b9cc98af.chunk.js.map": "/panku-chavan/info-app/static/js/787.b9cc98af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.76525952.js"
+  ]
+}
